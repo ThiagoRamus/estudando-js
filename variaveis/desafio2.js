@@ -1,5 +1,6 @@
-// Crie duas variáveis e armazene dois números e exibir o resultado da soma
-
+/* 
+Exercício - Soma de números
+ */
 const num1 = 15;
 const num2 = 8;
 
