@@ -1,3 +1,12 @@
+/* Faça um programa para calcular o valor de uma viagem. 
+
+Voce tera 3 variaveis. Sendo elas: 
+1 - Preço do Combsutivel; 
+2 - Gasto medio de combsutivel do carro por KM;
+3 - Distancia em Km da viagem;
+
+Imprima no console o valor que sera gasto de combustivel para realizar esta viagem.
+ */
 const precoCombustivel = 7.29; // defino o valor atual do combustivel em manaus
 const gastoMedioPorKm = 13.2; // coloco a media de km/l do hb20
 const distanciaDaViagemEmKm= 46; // adiciono uma viagem simples da zona oeste para zona leste de manaus, ida e volta
