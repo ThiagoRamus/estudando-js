@@ -1,5 +1,5 @@
 /* 
-Crie uma variável com o ano atual e outra com o ano de nascimento.
+Exercício - Idade
 */
 
 const anoAtual = 2026;
