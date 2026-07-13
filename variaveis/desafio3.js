@@ -1,5 +1,5 @@
 /* 
-Crie três notas e calcule a média.
+Exercício - Média
 */
 
 const nota1 = 8;
