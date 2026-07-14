@@ -1,5 +1,5 @@
 /* 
-Exercício 7 - Consumo de combustível
+Exercício - Consumo de combustível
 */
 const distanciaEmKm = 480;
 const consumoEmLitros = 36;
