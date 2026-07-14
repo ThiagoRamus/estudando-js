@@ -1,3 +1,6 @@
+/* 
+Exercício 7 - Consumo de combustível
+*/
 const carroKm = 480;
 const consumo = 36;
 
