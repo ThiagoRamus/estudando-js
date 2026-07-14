@@ -1,8 +1,8 @@
 /* 
 Exercício 7 - Consumo de combustível
 */
-const carroKm = 480;
-const consumo = 36;
+const distanciaEmKm = 480;
+const consumoEmLitros = 36;
 
-const media = carroKm / consumo;
-console.log ('O consumo médio foi de ', media.toFixed(2), 'km/l')
+const consumoMedio = distanciaEmKm / consumoEmLitros;
+console.log ('O consumo médio foi de', consumoMedio.toFixed(2), 'km/l')
