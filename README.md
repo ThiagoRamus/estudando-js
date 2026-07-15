@@ -4,24 +4,32 @@
 Este repositório reúne meus exercícios e anotações enquanto estudo os conceitos básicos de JavaScript.
 
 ## O que aprendi
-- Variáveis com `const` e `let`
-- Operadores aritméticos e lógicos
-- Diferença entre declaração e atribuição
-- Como resolver pequenos desafios usando código JavaScript
+- Entendimento das diferenças entre `const` e `let`;
+- Como usar operadores aritméticos (`+`, `-`, `*`, `/`) e métodos de número (`toFixed`);
+- Diferença entre declarar uma variável e atribuir um valor;
+- Como estruturar um pequeno programa para resolver um problema real (ex.: calcular custo de viagem);
+- Boas práticas básicas de uso do `console` para depuração.
+
+## O que pratiquei
+- Criar variáveis imutáveis com `const` e variáveis mutáveis com `let`;
+- Reatribuição de valores e acompanhamento do estado da variável com `console.log`;
+- Operações matemáticas para calcular resultados (ex.: litros consumidos e custo total);
+- Formatação de saída numérica com `toFixed(2)` para apresentar valores monetários;
+- Traduzir um enunciado de problema (desafio) em variáveis e expressões JavaScript.
 
 ## Resumo dos exercícios
-- `variaveis/const.js`: aprendi que `const` define um valor que não deve ser alterado depois da declaração.
-- `variaveis/let.js`: pratiquei alterar o valor de uma variável usando `let` e entendi a flexibilidade desse tipo.
-- `variaveis/operadores.js`: revisei operações básicas como soma, subtração, multiplicação e divisão.
-- `variaveis/desafio.js`: usei variáveis e expressões para calcular o custo de uma viagem com base em distância, consumo e preço do combustível.
+- [variaveis/const.js](variaveis/const.js): exemplo de `const` e impressão no console.
+- [variaveis/let.js](variaveis/let.js): alteração de valor com `let` e comparação entre estados.
+- [variaveis/operadores.js](variaveis/operadores.js): uso de operadores básicos.
+- [variaveis/desafio.js](variaveis/desafio.js): cálculo do gasto de uma viagem usando distância, consumo e preço.
 
 ## Meu foco com os estudos
-- Consolidar a sintaxe básica do JavaScript
-- Entender como manipular valores e expressões
-- Praticar o raciocínio lógico com exercícios simples
-- Me preparar para avançar em funções, arrays e objetos
+- Consolidar a sintaxe básica do JavaScript;
+- Entender manipulação de valores, expressões e saída formatada;
+- Praticar raciocínio lógico através de exercícios práticos;
+- Evoluir para funções, arrays e objetos em próximo passo.
 
 ## Próximos passos
-1. Revisar os conceitos atuais até me sentir confortável.
-2. Passar para funções e estruturas de repetição.
-3. Construir pequenos projetos para aplicar o que aprendi.
+1. Revisar estes conceitos e refazer os exercícios para fixação.
+2. Estudar funções e estruturas de repetição (loops).
+3. Criar pequenos projetos para aplicar o que aprendi (ex.: calculadora de gastos, lista de tarefas simples).
