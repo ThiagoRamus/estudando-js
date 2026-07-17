@@ -7,11 +7,6 @@ const preco = 300;
 const quantidade = 2;
 const desconto = 10;
 
-if (quantidade >= 2) {
-    const valorFinal = preco - (preco * 0.1);
-    console.log('Valor: R$', valorFinal);
-    console.log('Desconto: ', desconto, '%');
-} else {
-    console.log('Valor: R$', preco);
-    console.log('Desconto: 0',);
-}
+const valorFinal = preco - (preco * 0.1);
+console.log('Valor: R$', valorFinal);
+console.log('Desconto: ', desconto, '%');
