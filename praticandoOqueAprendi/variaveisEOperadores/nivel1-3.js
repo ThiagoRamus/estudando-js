@@ -3,8 +3,9 @@
 (só com + e -, ou só com * e /).
 */
 
-let a = 2;
-let b = 4;
+let a = 10;
+let b = 100;
 
 console.log(a = a * b)
-console.log(b = b / b)
+console.log(b = a / b)
+console.log (a = a / b)

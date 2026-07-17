@@ -6,8 +6,6 @@ const numero = 2;
 
 let resto = (numero % 2) === 0;
 const numeroPar = resto;
-resto = true;
-
 
 console.log('Par', numeroPar)
 console.log('Impar', !numeroPar)

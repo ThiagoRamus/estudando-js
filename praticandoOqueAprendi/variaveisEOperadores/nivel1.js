@@ -3,10 +3,11 @@
 Calcule o valor total da compra já com o desconto aplicado e mostre no console.log.
 */
 
-const preco = 300;
+const preco = 100 ;
 const quantidade = 2;
 const desconto = 10;
-
-const valorFinal = preco - (preco * 0.1);
-console.log('Valor: R$', valorFinal);
+const valorTotal = preco * quantidade;
+const valorDesconto = desconto / 100;
+const precoFinal = valorTotal - (valorTotal * valorDesconto);
+console.log('Valor: R$', precoFinal);
 console.log('Desconto: ', desconto, '%');
